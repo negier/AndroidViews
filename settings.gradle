@@ -1,0 +1,2 @@
+include ':app', ':loadinglayout'
+rootProject.name='AndroidViews'
